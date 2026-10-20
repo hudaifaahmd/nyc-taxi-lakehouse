@@ -1,5 +1,10 @@
 # NYC Taxi Lakehouse
 
+**[View the project on my portfolio](https://hudaifa-ahamed.netlify.app/projects/nyc-taxi-lakehouse/)**
+
+Explore the pipeline, verified results and interactive dashboards, with table structures and notebook details.
+
+
 An independent, end-to-end Databricks data-engineering reference project using
 Python, PySpark, SQL and Delta Lake. Monthly NYC TLC yellow-taxi source files
 become traceable Bronze records, accepted Silver records, quarantined evidence,
